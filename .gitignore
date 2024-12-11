@@ -1,0 +1,9 @@
+vendor/
+web/core/
+web/modules/contrib/
+web/themes/contrib/
+.lando.yml
+.DS_Store
+sites/default/files/
+*.sql
+*.log
